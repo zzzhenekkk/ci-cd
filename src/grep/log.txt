@@ -1,0 +1,18 @@
+
+-o 123 texts/1.txt texts/2.txt texts/3.txt texts/4.txt texts/5.txt
+-n -o 123 texts/1.txt texts/2.txt texts/3.txt texts/4.txt texts/5.txt
+-i -o 123 texts/1.txt texts/2.txt texts/3.txt texts/4.txt texts/5.txt
+-s -o 123 texts/1.txt texts/2.txt texts/3.txt texts/4.txt texts/5.txt
+-o -n 123 texts/1.txt texts/2.txt texts/3.txt texts/4.txt texts/5.txt
+-o -i 123 texts/1.txt texts/2.txt texts/3.txt texts/4.txt texts/5.txt
+-o -s 123 texts/1.txt texts/2.txt texts/3.txt texts/4.txt texts/5.txt
+-o -f texts/pattern.txt  texts/1.txt texts/2.txt texts/3.txt texts/4.txt texts/5.txt
+-o -f texts/pattern.txt texts/1.txt texts/2.txt texts/3.txt texts/4.txt texts/5.txt
+-o -f texts/pattern.txt -f texts/pattern2.txt texts/1.txt texts/2.txt texts/3.txt texts/4.txt texts/5.txt
+-o -f texts/pattern.txt "[A-Z]" texts/1.txt texts/2.txt texts/3.txt texts/4.txt texts/5.txt
+-n -o a texts/1.txt texts/2.txt texts/3.txt texts/4.txt texts/5.txt
+-i -o a texts/1.txt texts/2.txt texts/3.txt texts/4.txt texts/5.txt
+-s -o a texts/1.txt texts/2.txt texts/3.txt texts/4.txt texts/5.txt
+-o -n a texts/1.txt texts/2.txt texts/3.txt texts/4.txt texts/5.txt
+-o -i a texts/1.txt texts/2.txt texts/3.txt texts/4.txt texts/5.txt
+-o -s a texts/1.txt texts/2.txt texts/3.txt texts/4.txt texts/5.txt

@@ -1,0 +1,171 @@
+
+-b -e new.txt new2.txt
+-e -b new.txt new2.txt
+-b -e -n new.txt new2.txt
+-b -e -s new.txt new2.txt
+-b -e -t new.txt new2.txt
+-b -e -v new.txt new2.txt
+-b -n -e new.txt new2.txt
+-b -s -e new.txt new2.txt
+-b -t -e new.txt new2.txt
+-b -v -e new.txt new2.txt
+-e -b -n new.txt new2.txt
+-e -b -s new.txt new2.txt
+-e -b -t new.txt new2.txt
+-e -b -v new.txt new2.txt
+-e -n -b new.txt new2.txt
+-e -s -b new.txt new2.txt
+-e -t -b new.txt new2.txt
+-e -v -b new.txt new2.txt
+-n -b -e new.txt new2.txt
+-n -e -b new.txt new2.txt
+-s -b -e new.txt new2.txt
+-s -e -b new.txt new2.txt
+-t -b -e new.txt new2.txt
+-t -e -b new.txt new2.txt
+-v -b -e new.txt new2.txt
+-v -e -b new.txt new2.txt
+-b -e -n -s new.txt new2.txt
+-b -e -n -t new.txt new2.txt
+-b -e -n -v new.txt new2.txt
+-b -e -s -n new.txt new2.txt
+-b -e -s -t new.txt new2.txt
+-b -e -s -v new.txt new2.txt
+-b -e -t -n new.txt new2.txt
+-b -e -t -s new.txt new2.txt
+-b -e -t -v new.txt new2.txt
+-b -e -v -n new.txt new2.txt
+-b -e -v -s new.txt new2.txt
+-b -e -v -t new.txt new2.txt
+-b -n -e -s new.txt new2.txt
+-b -n -e -t new.txt new2.txt
+-b -n -e -v new.txt new2.txt
+-b -n -s -e new.txt new2.txt
+-b -n -t -e new.txt new2.txt
+-b -n -v -e new.txt new2.txt
+-b -s -e -n new.txt new2.txt
+-b -s -e -t new.txt new2.txt
+-b -s -e -v new.txt new2.txt
+-b -s -n -e new.txt new2.txt
+-b -s -t -e new.txt new2.txt
+-b -s -v -e new.txt new2.txt
+-b -t -e -n new.txt new2.txt
+-b -t -e -s new.txt new2.txt
+-b -t -e -v new.txt new2.txt
+-b -t -n -e new.txt new2.txt
+-b -t -s -e new.txt new2.txt
+-b -t -v -e new.txt new2.txt
+-b -v -e -n new.txt new2.txt
+-b -v -e -s new.txt new2.txt
+-b -v -e -t new.txt new2.txt
+-b -v -n -e new.txt new2.txt
+-b -v -s -e new.txt new2.txt
+-b -v -t -e new.txt new2.txt
+-e -b -n -s new.txt new2.txt
+-e -b -n -t new.txt new2.txt
+-e -b -n -v new.txt new2.txt
+-e -b -s -n new.txt new2.txt
+-e -b -s -t new.txt new2.txt
+-e -b -s -v new.txt new2.txt
+-e -b -t -n new.txt new2.txt
+-e -b -t -s new.txt new2.txt
+-e -b -t -v new.txt new2.txt
+-e -b -v -n new.txt new2.txt
+-e -b -v -s new.txt new2.txt
+-e -b -v -t new.txt new2.txt
+-e -n -b -s new.txt new2.txt
+-e -n -b -t new.txt new2.txt
+-e -n -b -v new.txt new2.txt
+-e -n -s -b new.txt new2.txt
+-e -n -t -b new.txt new2.txt
+-e -n -v -b new.txt new2.txt
+-e -s -b -n new.txt new2.txt
+-e -s -b -t new.txt new2.txt
+-e -s -b -v new.txt new2.txt
+-e -s -n -b new.txt new2.txt
+-e -s -t -b new.txt new2.txt
+-e -s -v -b new.txt new2.txt
+-e -t -b -n new.txt new2.txt
+-e -t -b -s new.txt new2.txt
+-e -t -b -v new.txt new2.txt
+-e -t -n -b new.txt new2.txt
+-e -t -s -b new.txt new2.txt
+-e -t -v -b new.txt new2.txt
+-e -v -b -n new.txt new2.txt
+-e -v -b -s new.txt new2.txt
+-e -v -b -t new.txt new2.txt
+-e -v -n -b new.txt new2.txt
+-e -v -s -b new.txt new2.txt
+-e -v -t -b new.txt new2.txt
+-n -b -e -s new.txt new2.txt
+-n -b -e -t new.txt new2.txt
+-n -b -e -v new.txt new2.txt
+-n -b -s -e new.txt new2.txt
+-n -b -t -e new.txt new2.txt
+-n -b -v -e new.txt new2.txt
+-n -e -b -s new.txt new2.txt
+-n -e -b -t new.txt new2.txt
+-n -e -b -v new.txt new2.txt
+-n -e -s -b new.txt new2.txt
+-n -e -t -b new.txt new2.txt
+-n -e -v -b new.txt new2.txt
+-n -s -b -e new.txt new2.txt
+-n -s -e -b new.txt new2.txt
+-n -t -b -e new.txt new2.txt
+-n -t -e -b new.txt new2.txt
+-n -v -b -e new.txt new2.txt
+-n -v -e -b new.txt new2.txt
+-s -b -e -n new.txt new2.txt
+-s -b -e -t new.txt new2.txt
+-s -b -e -v new.txt new2.txt
+-s -b -n -e new.txt new2.txt
+-s -b -t -e new.txt new2.txt
+-s -b -v -e new.txt new2.txt
+-s -e -b -n new.txt new2.txt
+-s -e -b -t new.txt new2.txt
+-s -e -b -v new.txt new2.txt
+-s -e -n -b new.txt new2.txt
+-s -e -t -b new.txt new2.txt
+-s -e -v -b new.txt new2.txt
+-s -n -b -e new.txt new2.txt
+-s -n -e -b new.txt new2.txt
+-s -t -b -e new.txt new2.txt
+-s -t -e -b new.txt new2.txt
+-s -v -b -e new.txt new2.txt
+-s -v -e -b new.txt new2.txt
+-t -b -e -n new.txt new2.txt
+-t -b -e -s new.txt new2.txt
+-t -b -e -v new.txt new2.txt
+-t -b -n -e new.txt new2.txt
+-t -b -s -e new.txt new2.txt
+-t -b -v -e new.txt new2.txt
+-t -e -b -n new.txt new2.txt
+-t -e -b -s new.txt new2.txt
+-t -e -b -v new.txt new2.txt
+-t -e -n -b new.txt new2.txt
+-t -e -s -b new.txt new2.txt
+-t -e -v -b new.txt new2.txt
+-t -n -b -e new.txt new2.txt
+-t -n -e -b new.txt new2.txt
+-t -s -b -e new.txt new2.txt
+-t -s -e -b new.txt new2.txt
+-t -v -b -e new.txt new2.txt
+-t -v -e -b new.txt new2.txt
+-v -b -e -n new.txt new2.txt
+-v -b -e -s new.txt new2.txt
+-v -b -e -t new.txt new2.txt
+-v -b -n -e new.txt new2.txt
+-v -b -s -e new.txt new2.txt
+-v -b -t -e new.txt new2.txt
+-v -e -b -n new.txt new2.txt
+-v -e -b -s new.txt new2.txt
+-v -e -b -t new.txt new2.txt
+-v -e -n -b new.txt new2.txt
+-v -e -s -b new.txt new2.txt
+-v -e -t -b new.txt new2.txt
+-v -n -b -e new.txt new2.txt
+-v -n -e -b new.txt new2.txt
+-v -s -b -e new.txt new2.txt
+-v -s -e -b new.txt new2.txt
+-v -t -b -e new.txt new2.txt
+-v -t -e -b new.txt new2.txt
